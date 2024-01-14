@@ -22,8 +22,8 @@ locale: "ko-KR" #"en-US"
 title: "Juyoung's Devlog" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
-name: "your name here" # 블로그 닉네임 설정
-description: "this is my blog!" # 블로그 설명
+name: "Juyoung's Devlog" # 블로그 닉네임 설정
+description: "TBD" # 블로그 설명
 url: "https://juyounglee95.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "Juyounglee95/Juyounglee95.github.io" # GitHub Repo 이름
@@ -102,7 +102,7 @@ author:
   avatar: "/assets/images/profile.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
-  email            : "youremailhere@xxxxxx.com"
+  email            : "dongry30@gmail.com"
 
   links: # 사이트 링크
 #     - label: "Email"
