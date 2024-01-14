@@ -1,13 +1,13 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
+title: "[포스팅 예시] Spring boot"
 excerpt: "본문의 주요 내용을 여기에 입력하세요"
 
 categories:
-  - Categories2
+  - Spring Boot
 tags:
   - [tag1, tag2]
 
-permalink: /categories3/post-name-here-3/
+permalink: /springboot/post-name-here-3/
 
 toc: true
 toc_sticky: true

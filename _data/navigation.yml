@@ -18,25 +18,21 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Title1"
+  - title: "Backend"
     children:
-      - title: "Categories1"
-        url: /categories/categories1/
-      - title: "Categories2"
-        url: /categories/categories2/
-      - title: "Categories3"
-        url: /categories/categories3/
-      - title: "Categories4"
-        url: /categories/categories4/
+      - title: "Spring Boot"
+        url: /categories/springboot/
+      - title: "Java"
+        url: /categories/java/
+      - title: "Operating Systems"
+        url: /categories/operating-systems/
+      - title: "Tips"
+        url: /categories/Tips/
 
-  - title: "Title2"
+  - title: "Daily"
     children:
-      - title: "Categories5"
-        url: /categories/categories5/
-      - title: "Categories6"
-        url: /categories/categories6/
+      - title: "Book Review"
+        url: /categories/book-review/
+      - title: "Diary"
+        url: /categories/diary/
 
-  - title: "Title3"
-    children:
-      - title: "Categories7"
-        url: /categories/categories7/
